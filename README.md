@@ -10,4 +10,5 @@ FUNCIONALIDADES:
 - Interfaz intuitiva con botones y gráficos integrados con Plotly.
 - Carga y análisis de un archivo CSV (vehicles_us.csv) que contiene datos reales de vehículos usados.
 
-
+  Local URL: http://localhost:8501        
+  Network URL: http://192.168.101.104:8501
